@@ -6,4 +6,4 @@
 
 ## Particiaption
 
-All propositions are warmly welcomed. Please create an issue in the current repository with Your suggestion.
+All propositions are warmly welcomed. Please create an [issue](https://github.com/fedir/go-tooling-cheat-sheet/issues/new) in the current repository with Your suggestion.
